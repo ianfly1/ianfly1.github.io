@@ -234,3 +234,11 @@ form button {
   padding: 24px 28px 40px;
   background: #cfe1f6 url("cloud.gif") repeat;
 }
+
+.hero img {
+  width: 100%;
+  max-width: 460px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}

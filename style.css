@@ -227,3 +227,10 @@ form button {
   .banner { font-size: 32px; }
   .projects { grid-template-columns: 1fr; }
 }
+
+#main {
+  flex: 1;
+  position: relative;
+  padding: 24px 28px 40px;
+  background: #cfe1f6 url("cloud.gif") repeat;
+}
